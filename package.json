@@ -1,0 +1,19 @@
+{
+  "name": "socketioha",
+  "version": "1.0.0",
+  "engines": {
+    "node": "v8.11.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4",
+    "socket.io": "2.1.1"
+  }
+}
